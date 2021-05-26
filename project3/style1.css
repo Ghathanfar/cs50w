@@ -1,0 +1,16 @@
+ul{
+list-style-type: none;
+padding-top: 10px;
+}
+ul li{
+margin: 20px;
+margin-left: 0px;
+block-size: 30px;
+
+}
+
+#but{
+color: rgb(244, 244, 250);
+background-color: rgb(99, 99, 223);
+margin-left: 250px;
+}
